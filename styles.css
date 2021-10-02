@@ -58,15 +58,3 @@ header nav{
     display: -ms-flexbox;
     display: flex;
 }
-.graph{
-    margin: 0 auto;
-    background-color: white;
-}
-.tooltip{
-    background-color: palevioletred;
-    border: 1px solid black;
-    width: 100px;
-    opacity: 0;
-    color: black;
-    position: absolute;
-}
