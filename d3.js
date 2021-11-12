@@ -48,4 +48,3 @@ svg.append('g').call(xAxis);
 svg.append('g').call(yAxis);
 svg.node();
 
-
